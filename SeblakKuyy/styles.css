@@ -1,0 +1,22 @@
+:root{
+    --custom-background-color: #812323a4;
+}
+
+.btn-primary{
+    background-color: var(--custom-background-color) !important;
+}
+
+.nav-link.active {
+    background-color: var(--custom-background-color)  !important;
+}
+
+.dropdown-item:active{
+    background-color: var(--custom-background-color) !important;
+}
+
+.navbar-expand{
+    background-color: var(--custom-background-color) !important;
+}
+body{
+    background-color: #cacece;
+}
